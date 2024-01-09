@@ -12,9 +12,5 @@
 .line {
     background-color: black;
     height: 2px;
-    width: 50%;
-    top: 50%;
-    left: 50%;
-    position: absolute;
-    transform-origin: 0% 0%;
+    width: ;
 }

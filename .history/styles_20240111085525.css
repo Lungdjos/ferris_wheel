@@ -1,4 +1,4 @@
-/* styling for the wheel */
+/* gfs */
 
 .wheel {
     border: 2px solid black;
@@ -43,6 +43,3 @@
 .line:nth-of-type(6) {
     transform: rotate(-60deg);
 }
-
-
-/* styling for the cabin */

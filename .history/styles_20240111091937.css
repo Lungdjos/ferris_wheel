@@ -62,31 +62,26 @@
 }
 
 .cabin:nth-of-type(2) {
-    right: 17%;
-    top: 93.5%;
-    background-color: orangered;
+    right: 175%;
+    top: 50%;
 }
 
 .cabin:nth-of-type(3) {
-    right: 67%;
-    top: 93.5%;
-    background-color: orange;
+    right: -8.5%;
+    top: 50%;
 }
 
 .cabin:nth-of-type(4) {
-    left: -8.5%;
+    right: -8.5%;
     top: 50%;
-    background-color: blueviolet;
 }
 
 .cabin:nth-of-type(5) {
-    left: 17%;
-    top: 7%;
-    background-color: plum;
+    right: -8.5%;
+    top: 50%;
 }
 
 .cabin:nth-of-type(6) {
-    right: 17%;
-    top: 7%;
-    background-color: purple;
+    right: -8.5%;
+    top: 50%;
 }

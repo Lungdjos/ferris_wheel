@@ -82,11 +82,10 @@
 .cabin:nth-of-type(5) {
     left: 17%;
     top: 7%;
-    background-color: plum;
+    background-color
 }
 
 .cabin:nth-of-type(6) {
     right: 17%;
     top: 7%;
-    background-color: purple;
 }

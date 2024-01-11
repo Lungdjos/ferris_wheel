@@ -109,14 +109,9 @@
         0% {
             transform: rotate(0deg);
         }
-        25% {
-            background-color: yellowgreen;
-        }
+        25% {}
         50% {
             background-color: purple;
-        }
-        75% {
-            background-color: brown;
         }
         100% {
             transform: rotate(-360deg);

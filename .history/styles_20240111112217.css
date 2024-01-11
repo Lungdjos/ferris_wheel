@@ -115,9 +115,6 @@
         50% {
             background-color: purple;
         }
-        75% {
-            background-color: brown;
-        }
         100% {
             transform: rotate(-360deg);
         }

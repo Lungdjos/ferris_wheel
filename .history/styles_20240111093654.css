@@ -3,17 +3,12 @@
 .wheel {
     border: 2px solid black;
     border-radius: 50%;
-    margin-left: 100px;
-    margin-top: 50px;
+    margin-left: 50px;
     position: absolute;
     height: 55vw;
     width: 55vw;
     max-width: 500px;
     max-height: 500px;
-    animation-name: wheel;
-    animation-duration: 10s;
-    animation-iteration-count: infinite;
-    animation-timing-function: linear;
 }
 
 
@@ -100,13 +95,6 @@
 /* animation styling */
 
 
-/* animation for the wheel */
+/* animation fir */
 
-@keyframes wheel {
-    0% {
-        transform: rotate(0deg);
-    }
-    100% {
-        transform: rotate(360deg);
-    }
-}
+@keyframes wheel {}

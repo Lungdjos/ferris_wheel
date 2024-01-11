@@ -12,8 +12,7 @@
     max-height: 500px;
     animation-name: wheel;
     animation-duration: 10s;
-    animation-iteration-count: infinite;
-    animation-timing-function: linear;
+    animation-iteration-count: ;
 }
 
 

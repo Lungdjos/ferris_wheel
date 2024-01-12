@@ -60,8 +60,7 @@
         transform-origin: 50% 0%;
         animation: cabins 10s ease-in-out infinite;
         text-align: center;
-        align-items: center;
-        padding-top: 10px;
+        ali
     }
     
     .cabin:nth-of-type(1) {
@@ -120,7 +119,6 @@
         }
         50% {
             background-color: purple;
-            color: white;
         }
         75% {
             background-color: brown;

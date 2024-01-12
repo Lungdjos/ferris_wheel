@@ -1,13 +1,10 @@
-    body {
-        /* align-items: center; */
-        justify-content: center;
-    }
     /* styling for the wheel */
     
     .wheel {
         border: 2px solid black;
         border-radius: 50%;
-        margin: 25%;
+        margin-left: 100px;
+        margin-top: 50px;
         position: absolute;
         height: 55vw;
         width: 55vw;
@@ -17,6 +14,8 @@
         animation-duration: 10s;
         animation-iteration-count: infinite;
         animation-timing-function: linear;
+        align-items: center;
+        justify-content: center;
     }
     /* styling for the line */
     
@@ -59,9 +58,6 @@
         position: absolute;
         transform-origin: 50% 0%;
         animation: cabins 10s ease-in-out infinite;
-        text-align: center;
-        align-items: center;
-        padding-top: 10px;
     }
     
     .cabin:nth-of-type(1) {
@@ -120,7 +116,6 @@
         }
         50% {
             background-color: purple;
-            color: white;
         }
         75% {
             background-color: brown;
